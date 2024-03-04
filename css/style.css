@@ -1,0 +1,36 @@
+img{
+    background-color: black;
+}
+h2{
+    color: white;
+    background-color: orange;
+    text-align: center;
+}
+.bg-img{
+    background-image: url("immagini/bg-img.png");
+}
+h1 {
+    text-align: center;
+    color: black;
+}
+.section{
+    background-image: url("immagini/bg-img.png");
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    }
+    .col-25{
+        width: 25%;
+        display:inline-block;
+        height: 200px;
+    }
+    .col-25{
+        width: 100%;
+        object-fit: cover;
+        height: 100%;
+    }
+    .img{
+        width: 100px;
+        height: 200px;
+    }
